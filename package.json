@@ -1,0 +1,44 @@
+{
+  "name": "anti-slop-webcraft",
+  "version": "1.0.0",
+  "description": "The definitive Anti-Slop Webcraft Skill Engine for AI Coding Agents (Cursor, Claude Code, Antigravity). Museum-grade 3D, WebGL, shaders, GSAP, and physics.",
+  "main": "bin/cli.js",
+  "bin": {
+    "anti-slop": "./bin/cli.js",
+    "anti-slop-webcraft": "./bin/cli.js"
+  },
+  "scripts": {
+    "init": "node ./bin/cli.js init",
+    "verify": "node ./bin/cli.js verify",
+    "list": "node ./bin/cli.js list"
+  },
+  "keywords": [
+    "anti-slop",
+    "webcraft",
+    "design-engineer",
+    "mobbin",
+    "framer-motion",
+    "threejs",
+    "r3f",
+    "gsap",
+    "cursorrules",
+    "claude-code",
+    "antigravity",
+    "oklch",
+    "shadcn",
+    "magicui",
+    "react-bits",
+    "21st-dev",
+    "aceternity"
+  ],
+  "author": "tways <140245695+twayst0@users.noreply.github.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/twayst0/anti-slop-webcraft.git"
+  },
+  "bugs": {
+    "url": "https://github.com/twayst0/anti-slop-webcraft/issues"
+  },
+  "homepage": "https://github.com/twayst0/anti-slop-webcraft#readme"
+}

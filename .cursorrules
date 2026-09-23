@@ -1,0 +1,77 @@
+# Anti-Slop Webcraft - Cursor Routing & Operational Rules
+# Architecture: Museum-Grade Frontend Systems & Anti-Generic Aesthetics
+# Target Environments: Next.js (App Router), React 19, Three.js / R3F, GSAP, Tailwind CSS v4
+
+# Root Invariants
+- ALWAYS inspect corresponding module in `.skills/` before proposing frontend implementations.
+- NEVER introduce generic AI palettes (#6366f1, purple-to-blue gradients, warm cream + forest green + serif).
+- NEVER use unicode emojis in code, logs, comments, or UI. Use `@phosphor-icons/react` with stroke-width 1.5 or raw SVGs.
+- ALWAYS adhere to the OKLCH 60-30-10 color balance engine with 1px hairline inner specular highlights.
+- ALWAYS use physical spring models over arbitrary ease curves (stiffness: 200, damping: 25).
+- ALWAYS force GPU composition on animated elements (transform: translateZ(0), will-change: transform).
+
+# Skill Directory Routing Map (24 Production Modules)
+
+## 1. Core Architecture
+- Color tokens, glass slabs, surface elevation:
+  -> See `.skills/core/01-anti-slop-design-system.md`
+- Typography pairings, tabular numbers, telemetry layouts:
+  -> See `.skills/core/02-typography-and-tabular-grid.md`
+
+## 2. 3D & Shaders
+- React Three Fiber, MeshTransmissionMaterial, glass refractions:
+  -> See `.skills/3d-and-shaders/03-r3f-glass-and-materials.md`
+- Custom GLSL backgrounds, raymarching, noise fields, film grain:
+  -> See `.skills/3d-and-shaders/04-custom-glsl-backgrounds.md`
+- 3D interactive mockups, cursor tilt, floating HUDs:
+  -> See `.skills/3d-and-shaders/05-interactive-3d-mockups.md`
+- Audio-reactive FFT spectrum analysis & GLSL waveform shaders:
+  -> See `.skills/3d-and-shaders/14-audio-reactive-and-spectrum-shaders.md`
+- High-density WebGL particle simulations & curl noise fields:
+  -> See `.skills/3d-and-shaders/18-webgl-particle-fields-and-simulations.md`
+
+## 3. Motion & Cinematics
+- GSAP ScrollTrigger, Lenis smooth scroll, pinned scrub stages:
+  -> See `.skills/motion-and-cinematics/06-gsap-scroll-trigger-mastery.md`
+- Framer Motion springs, magnetic buttons, spotlight cards:
+  -> See `.skills/motion-and-cinematics/07-framer-motion-physics.md`
+- Text kinetic typography, character splitting, numeric tickers:
+  -> See `.skills/motion-and-cinematics/08-text-kinetic-animations.md`
+- Infinite smooth GPU marquees & velocity-responsive carousels:
+  -> See `.skills/motion-and-cinematics/19-infinite-smooth-marquee-and-carousel.md`
+
+## 4. Media & Vectors
+- Pure SVG mathematics, vector physics, radar/oscilloscope HUDs:
+  -> See `.skills/media-and-vectors/09-bespoke-svg-and-vector-physics.md`
+- Canvas video scrub, alpha-masked WebM, performant transduction:
+  -> See `.skills/media-and-vectors/10-canvas-video-transduction.md`
+- Curvature SVG connection beams & dynamic network graphs:
+  -> See `.skills/media-and-vectors/13-animated-beam-and-connection-graphs.md`
+
+## 5. Components & Primitives (UI Max Pro & Mobbin Architecture)
+- Asymmetric Bento grids, border beam sweeps, spatial slabs:
+  -> See `.skills/components-and-primitives/11-bento-grid-and-spatial-slabs.md`
+- macOS-style interactive magnification dock & liquid spring tabs:
+  -> See `.skills/components-and-primitives/12-interactive-dock-and-liquid-tabs.md`
+- iOS-native fluid bottom sheets & velocity gesture drawers:
+  -> See `.skills/components-and-primitives/21-fluid-drawer-and-bottom-sheet.md`
+- Apple Dynamic Island & morphing spatial navigation pills:
+  -> See `.skills/components-and-primitives/22-dynamic-island-and-morphing-nav.md`
+- Component ecosystem crawling & anti-slop transduction pipeline:
+  -> See `.skills/components-and-primitives/25-ecosystem-crawling-and-component-transduction.md`
+
+## 6. Micro-Interactions & Tactile
+- Canvas pixel cards, phosphorescent decay & retro perspective grids:
+  -> See `.skills/micro-interactions-and-tactile/15-pixel-perfection-and-retro-grids.md`
+- Fluid magnetic cursors, optical magnification lenses & sticky targets:
+  -> See `.skills/micro-interactions-and-tactile/16-magnetic-cursor-and-optical-lenses.md`
+- Cybernetic text scramble & progressive entropy matrix decoders:
+  -> See `.skills/micro-interactions-and-tactile/17-scramble-and-matrix-decoding-text.md`
+- Keyboard-driven command palettes & telemetry spotlight HUDs:
+  -> See `.skills/micro-interactions-and-tactile/23-command-palette-and-spotlight-hud.md`
+- Content-aware shimmer skeletons & zero-CLS progressive reveals:
+  -> See `.skills/micro-interactions-and-tactile/24-shimmer-skeleton-and-layout-reveals.md`
+
+## 7. State & Performance
+- Tailwind CSS v4 @theme, zero layout shift (CLS=0), telemetry monitor:
+  -> See `.skills/state-and-performance/20-zero-runtime-css-and-tailwind-v4-optimization.md`
